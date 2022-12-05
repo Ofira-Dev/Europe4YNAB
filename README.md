@@ -1,0 +1,1 @@
+This is a solution for automated import of bank transactions from Nordigen to YNAB.
